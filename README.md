@@ -1,9 +1,9 @@
 # SELP
-A Simple, Easy Language Parser made for Haxe
+A Simple and Easy Language Parser made for Haxe
 
 # WIP
 This library is being worked on but for now it intends to support:
-- A custom format called .selp
+- A custom format called ```.selp```
 - Easily fetching .selp from URLs
 - Parsing .cvs and .tsv files from those that prefer it
 - A single-pass quick parser
